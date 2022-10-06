@@ -1,0 +1,62 @@
+*	{
+	box-sizing:   		border-box;
+	padding: 			0;
+	margin: 			0;
+	font-family: 		'Roboto', sans-serif;
+}
+/*body*/
+body 	{
+	background-color:  	#c0e4e6;
+	font-family: 		'Roboto', sans-serif;
+
+}
+
+/*container*/
+.container {
+color: 					black;
+}
+/* navbar */
+.navbar	.container 	{
+font-size: 				1.5vw;
+text-align:  			center;
+}
+
+.navbar-brand, .dropdown-item, .navbar-toggler {
+	color: 				#fef2e2;
+	font-size: 			2vw;	
+}
+
+
+/*Content*/
+
+/*chicken*/
+.chicken {
+	color: 				#fef2e2;
+	background-color: 	#6d7389;
+	box-shadow: 		2px 5px 16px 0px #0B325E, 0px -2px 23px 4px rgba(89,88,88,0);
+}
+.chicken p	{
+	font-size:  		110%;
+}
+
+/*beef*/
+.beef	{
+	color: 				#fef2e2;
+	background-color:  	#2596be;
+	box-shadow: 		2px 5px 16px 0px #0B325E, 0px -2px 23px 4px rgba(89,88,88,0);
+}
+
+.beef p	{
+	font-size:  		110%;
+}
+
+/*sushi*/
+.sushi	{
+	color: 				#fef2e2;
+	background-color: 	#364862;
+	box-shadow: 		2px 5px 16px 0px #0B325E, 0px -2px 23px 4px rgba(89,88,88,0);
+}
+
+.sushi p	{
+	font-size:  		110%;
+}
